@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) Haripriya
+ */
+
 package com.techatpark.corejava.arrays;
 
 import org.junit.jupiter.api.Test;
