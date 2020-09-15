@@ -1,5 +1,5 @@
-package com.htheprogrammer.src;//problem 3, 4
-
+//problem 3, 4
+package com.htheprogrammer.classesandobjects;
 class Triangle {
 
     int a,b,c;

@@ -1,5 +1,5 @@
-package com.htheprogrammer.src;//problem 1 , 2
-
+//problem 1 , 2
+package com.htheprogrammer.classesandobjects;
 class Student {
 
     String name;

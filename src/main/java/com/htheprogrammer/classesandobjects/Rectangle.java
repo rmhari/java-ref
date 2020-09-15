@@ -1,6 +1,4 @@
-package com.htheprogrammer.src;//problem 5.
-
-import java.util.Arrays;
+package com.htheprogrammer.classesandobjects;//problem 5.
 
 class Rectangle {
     double length;

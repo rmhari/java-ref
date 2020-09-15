@@ -1,6 +1,6 @@
-package com.htheprogrammer.src;//Print the average of three numbers entered by user by creating a class
+//Print the average of three numbers entered by user by creating a class
 // named 'Average' having a method to calculate and print the average
-
+package com.htheprogrammer.classesandobjects;
 import java.util.Scanner;
 
 class Average {

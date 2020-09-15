@@ -1,5 +1,5 @@
-package com.htheprogrammer.src;
 //Add two distances in inch-feet by creating a class named 'AddDistance'.
+package com.htheprogrammer.classesandobjects;
 
 import java.util.Scanner;
 

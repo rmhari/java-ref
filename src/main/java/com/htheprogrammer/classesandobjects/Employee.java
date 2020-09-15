@@ -1,4 +1,4 @@
-package com.htheprogrammer.src;
+package com.htheprogrammer.classesandobjects;
 
 import java.io.BufferedReader;
 import java.io.IOException;
